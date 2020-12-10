@@ -1,0 +1,15 @@
+﻿ Field: Variables defined by a class
+ Assembly: Compilation of classes
+ Operator: Symbols which transform and combine expressions
+ Expression: Thing which gives something a value
+ Statement: An instruction describing how to run a program
+ Abstract Class: A class that cannot be instantiated
+ String: A data type that stores a string of characters
+ Loop: The repeated execution of a statement or statements
+ Integer: A data type that stores a whole number
+ Bit: A single binary number
+ Double: A number that allows a decimal point for greater precision
+ Class: A template of a type of object
+ C#: A language developed by Microsoft to work with the .Net platform
+ Boolean: A data type with a binary value such as true or false
+ HTML: A language that structures document elements
